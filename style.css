@@ -1,0 +1,105 @@
+a { 
+  font-size: 20px;
+}
+
+p {
+  font-family: 'Times New Roman';
+}
+
+p {
+  font: 30px;
+}
+
+
+img {
+  width: 1500px;
+}
+
+
+
+#seccion01 {width: 100%;
+    height: 600px;
+    background-color: rgb(254, 254, 254);
+    
+    background-position:    100%;
+    background-repeat: no-repeat;}
+
+#seccion02 { width: 100%;
+     height: 600px;
+     background-image: url(categorias.png);
+     background-position: center 50%;
+     background-repeat: no-repeat;
+     background-color: rgb(255, 255, 255);}
+
+header { width: 100%;
+    height: 80px;
+    background-color: rgb(242, 228, 228);
+margin-left: auto;
+margin-right: auto;
+}
+
+header nav {float: left;
+padding-top: 25px;}
+
+header nav a {color: rgb(0, 0, 0);
+padding: 30px 30px 30px 30px;
+text-transform: uppercase;
+text-decoration: none;
+border: 1px solid rgb(255, 255, 255);
+font-family:'Times New Roman';
+font-size: 15px;}
+
+header nav a:hover {color:#f5dbdede;
+background-color: rgb(255, 255, 255);}
+
+
+ #seccion02 {width: 100%;
+    height: 600px;
+    background-color: rgb(255, 255, 255);
+    background-position: center 50%;
+    background-repeat: no-repeat;
+color: white;}
+#seccion03 {width: 100%;
+    height: 600px;
+    padding-top: 20%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: rgb(255, 255, 255);
+color: white;}
+   
+#seccion04 {width: 100%;
+  height: 600px;
+  padding-top: 10%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: rgb(255, 255, 255);
+
+    color: white;}
+    #seccion05 {width: 100%;
+        height: 600px;
+        background-position: center 50%;
+        background-repeat: no-repeat;
+        background-color: rgb(255, 255, 255);
+    color: white;}
+    #seccion06 {width: 100%;
+        height: 600px;
+        padding-top: 15%;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-color: rgb(255, 255, 255);
+    color: white;}
+    #seccion07 {width: 100%;
+        height: 600px;
+        padding-top: 23%;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-color: #f5dbdede;
+    color: #f5dbdede;}
+    #seccion08 {width: 100%;
+        height: 190px;
+ 
+        background-position: center;
+        background-repeat: no-repeat;
+        background-color: #f5dbdede(255, 255, 255);
+    color:white;}
+      
